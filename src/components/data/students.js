@@ -4,7 +4,7 @@ const studentData = [
     firstName: 'Susan',
     lastName: 'Jordon',
     email: 'susan@example.com',
-    teacher: '95000',
+    teacher: 'John Smith',
     date: '2019-04-11',
   },
   {
@@ -12,7 +12,7 @@ const studentData = [
     firstName: 'Adrienne',
     lastName: 'Doak',
     email: 'adrienne@example.com',
-    teacher: '80000',
+    teacher: 'Alice Johnson',
     date: '2019-04-17',
   },
   {
@@ -20,7 +20,7 @@ const studentData = [
     firstName: 'Rolf',
     lastName: 'Hegdal',
     email: 'rolf@example.com',
-    teacher: '79000',
+    teacher: 'Michael Brown',
     date: '2019-05-01',
   },
   {
@@ -28,7 +28,7 @@ const studentData = [
     firstName: 'Kent',
     lastName: 'Rosner',
     email: 'kent@example.com',
-    teacher: '56000',
+    teacher: 'Emily Davis',
     date: '2019-05-03',
   },
   {
@@ -36,7 +36,7 @@ const studentData = [
     firstName: 'Arsenio',
     lastName: 'Grant',
     email: 'arsenio@example.com',
-    teacher: '65000',
+    teacher: 'Robert Wilson',
     date: '2019-06-13',
   },
   {
@@ -44,7 +44,7 @@ const studentData = [
     firstName: 'Laurena',
     lastName: 'Lurie',
     email: 'laurena@example.com',
-    teacher: '120000',
+    teacher: 'John Smith',
     date: '2019-07-30',
   },
   {
@@ -52,7 +52,7 @@ const studentData = [
     firstName: 'George',
     lastName: 'Tallman',
     email: 'george@example.com',
-    teacher: '90000',
+    teacher: 'Alice Johnson',
     date: '2019-08-15',
   },
   {
@@ -60,7 +60,7 @@ const studentData = [
     firstName: 'Jesica',
     lastName: 'Watlington',
     email: 'jesica@example.com',
-    teacher: '60000',
+    teacher: 'Michael Brown',
     date: '2019-10-10',
   },
   {
@@ -68,7 +68,7 @@ const studentData = [
     firstName: 'Matthew',
     lastName: 'Warren',
     email: 'matthew@example.com',
-    teacher: '71000',
+    teacher: 'Emily Davis',
     date: '2019-10-15',
   },
   {
@@ -76,7 +76,7 @@ const studentData = [
     firstName: 'Lyndsey',
     lastName: 'Follette',
     email: 'lyndsey@example.com',
-    teacher: '110000',
+    teacher: 'Robert Wilson',
     date: '2020-01-15',
   },
 ];
